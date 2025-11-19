@@ -1,2 +1,1 @@
-testing webhook
-correctly
+testing webhook properly
